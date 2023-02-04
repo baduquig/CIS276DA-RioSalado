@@ -1,0 +1,21 @@
+/*
+Gabe Baduqui
+CIS276
+Lesson 1
+#3f - Choice1.sql
+*/
+
+-- Query for scores of tests taken on 9/16/2012
+SELECT
+	STU.NAME,
+    GE.DATE,
+    SCO.SCORE
+FROM
+	SCORE SCO
+		INNER JOIN GRADE_EVENT GE
+			ON SCO.EVENT_ID = GE.EVENT_ID
+		INNER JOIN STUDENT STU
+			ON SCO.STUDENT_ID = STU.STUDENT_ID
+WHERE
+	GE.DATE = '2012-09-16';
+    

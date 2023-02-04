@@ -1,0 +1,8 @@
+FIRST_NAME,LAST_NAME,BIRTH,TERM_START_DATE,TERM_END_DATE,REASON_FOR_LEAVING_OFFICE
+"William H.",Harrison,1773-02-09,1841-03-04,1841-04-04,"Died in office"
+Zachary,Taylor,1784-11-24,1849-03-04,1850-07-09,"Died in office"
+Abraham,Lincoln,1809-02-12,1861-03-04,1865-04-15,Assassinated
+William,McKinley,1843-01-29,1897-03-04,1901-09-14,Assassinated
+"Warren G.",Harding,1865-11-02,1921-03-04,1923-08-02,"Died in office"
+"Franklin D.",Roosevelt,1882-01-30,1933-03-04,1945-04-12,"Died in office"
+"John F.",Kennedy,1917-05-29,1961-01-20,1963-11-22,Assassinated

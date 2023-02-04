@@ -1,0 +1,2 @@
+INSERT INTO PRESIDENT (LAST_NAME, FIRST_NAME, CITY, STATE, BIRTH) 
+	VALUES ('Obama', 'Barack', 'Honolulu', 'HA', '1961-08-04');
